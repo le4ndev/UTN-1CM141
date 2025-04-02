@@ -1,10 +1,11 @@
 #include <iostream>
+using namespace std;
 //
 // Created by le4ndev on 4/2/2025.
 //
 
 /*
- * Hacer un programa para ingresar por teclado la cantidad de horas trabajadas
+ * Hacer un programa para ingresar por teclado sla cantidad de horas trabajadas
  * por un operario y el valor que se le paga por hora trabajada
  * y listar por pantalla el sueldo que le corresponda.
 */
